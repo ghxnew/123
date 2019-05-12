@@ -1,0 +1,7 @@
+BODY { scrollbar-base-color : #FFFFFF; scrollbar-face-color : #CCCCCC; scrollbar-track-color: 
+#FFFFFF; scrollbar-arrow-color : #000000; scrollbar-3dlight-color: #000000; scrollbar-darkshadow-color 
+: #000000; scrollbar-highlight-color : #CCCCCC; scrollbar-shadow-color : #CCCCCC; 
+}.text { font-family: "ＭＳ Ｐゴシック", "Osaka"; font-size: 12px; line-height: 140%; 
+font-weight: normal; color: #333333} a:link{ color: #FF0099;text-decoration: none;}a:visited{color: 
+#FF0099;text-decoration: none;}a:hover,a:active{color: #00CCFF;text-decoration: 
+underline;background: none;} 
